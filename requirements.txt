@@ -1,0 +1,5 @@
+# Dev environment
+pip
+autopep8
+
+python-telegram-bot==13.13
